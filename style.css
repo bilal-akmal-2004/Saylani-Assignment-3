@@ -1,6 +1,6 @@
 .navbar{
     border: 85px solid rgb(212, 0, 35);
-
+    box-shadow: 10px 10px 15px 5px rgb(0, 49, 155);
 }
 
 .fixed{
@@ -44,16 +44,27 @@ a:hover{
     font-size: 100px;
     font-weight: 90;
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(219, 169, 150);
+    
 }
 
 .p2{
-    border: 10px solid yellow;
+    border: 10px solid rgb(195, 14, 14);
+    box-shadow: 10px 10px 15px 5px rgb(232, 80, 80);
 }
 
 .w1{
-    border: 12px solid blue;
+    border: 12px solid rgb(101, 4, 93);
     margin-left: 100px;
     margin-right: 100px;
-    
+    box-shadow: 10px 10px 15px 5px rgb(137, 164, 222);
+}
+
+h1{
+    font-family: "Modak", sans-serif;
+    font-size: 40px;
+    text-shadow: 5px 2px 1px rgb(177, 96, 96);
+    text-decoration: underline;
+    color: rgb(165, 6, 6);
+    font-weight: 100;
 }
